@@ -7,7 +7,7 @@ import {
 } from './constants/pageData';
 
 const configs = {
-  title: 'Tomas Gonzalez',
+  title: 'Rohit Yadav',
   subTitle: 'Dev portfolio.',
   stars: {
     maxSize: 20,
@@ -16,7 +16,7 @@ const configs = {
     // url: 'icons/three-js-logo.png',
     dencity: 900,
   },
-  navTitle: 'Tomas Gonzalez portfolio.',
+  navTitle: 'Rohit Yadav portfolio.',
   relevantStops: STOPS,
   pages: [
     {
@@ -26,10 +26,10 @@ const configs = {
       displayAt: displayAt('About'),
       title: 'Who Am I?',
       infos: [
-        "* I'm a maker, a curious thinker who enjoys learning and comprehending how things function.",
-        '* My journey as a software developer started when I was a just a kid trying to figure out how video games where made.',
-        '* I started my career as a front-end developer around 6 years ago in 2017, and since then I have helped many startup companies and non-profit organizations to develop quality products.',
-        '* I have a wide range of skills, of which I can say that I’ve mastered many.',
+        "* I am a highly skilled software engineer with expertise in Node.js, Docker, AWS, and Kubernetes.My strong problem-solving skills and leadership qualities make me an asset in any team." ,
+        "* I am experienced in building scalable applications for production environments,",
+        "* I am always looking for ways to improve and optimize processes to increase efficiency and productivity.With my technical skills and ability to lead, I can help your organization achieve its goals and stay competitive in today's fast-paced tech industry.",
+        "* Let's connect and see how I can add value to your team."
       ],
     },
     {
@@ -67,7 +67,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://docs.google.com/document/d/1wKGkXHhd7q5v3AOGPMK6Gtehpp_Tkp90BvUufUqQIRc/edit?usp=sharing',
+              'https://drive.google.com/file/d/1FtEFFQAKhDNm5QbvbQy8AQHMmv50G7Qh/view?usp=drive_link',
           },
         ],
       },
@@ -78,7 +78,7 @@ const configs = {
       rotation: [Math.PI / 2, 0, 0],
       position: [0, -PAGE_DEPH_MARGIN, 0],
       title: 'Personal Projects',
-      footer: '(And also this web-app)',
+      footer: '',
       imageList: {
         rows: 2,
         separation: 2.5,
@@ -87,29 +87,25 @@ const configs = {
         scale: 0.3,
         items: [
           {
-            url: 'websites-preview/nft-place-logo.png',
-            websiteURL: 'https://nft-place.xyz/',
+            url: 'websites-preview/reunite.png',
+            websiteURL: 'https://reunite-kn90.onrender.com/',
           },
           {
-            url: 'websites-preview/snow-hero.png',
-            websiteURL: 'https://powtom48.itch.io/snow-the-hero',
+            url: 'websites-preview/medium.png',
+            websiteURL: 'https://medium.com/@rohityadav2604',
           },
           {
-            url: 'websites-preview/minecraft-in-js.png',
+            url: 'websites-preview/sorting.png',
             websiteURL:
-              'https://www.youtube.com/watch?v=yOUQquusyiY&t=123s&ab_channel=tomugon',
+              'https://sortvisualiser.netlify.app/',
           },
           {
-            url: 'websites-preview/fish-chopter.png',
-            websiteURL: 'https://powtom48.itch.io/fishcopter',
+            url: 'websites-preview/white.png',
+            websiteURL: 'https://white-board-one.netlify.app/',
           },
           {
-            url: 'websites-preview/odd-clowns.png',
-            websiteURL: 'https://oddclowns.com/',
-          },
-          {
-            url: 'websites-preview/island-ai.png',
-            websiteURL: 'https://www.instagram.com/island.ai/',
+            url: 'websites-preview/login.jpeg',
+            websiteURL: 'https://github.com/rohityadav2604/loginsystem',
           },
         ],
       },
@@ -130,20 +126,24 @@ const configs = {
         items: [
           {
             url: 'icons/twitter.png',
-            websiteURL: 'https://twitter.com/kiter_js',
+            websiteURL: 'https://twitter.com/rohityadav2604',
           },
           {
             url: 'icons/linkedin.png',
             websiteURL:
-              'https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/',
+              'https://www.linkedin.com/in/rohityadav2604/',
+          },
+          {
+            url: 'icons/medium.png',
+            websiteURL: 'https://medium.com/@rohityadav2604',
           },
           {
             url: 'icons/github.png',
-            websiteURL: 'https://github.com/TomasGonzalez',
+            websiteURL: 'https://github.com/rizzle-rohit',
           },
           {
             url: 'icons/email.png',
-            websiteURL: 'mailto:tomasgp14@gmail.com',
+            websiteURL: 'mailto:rohitsoftware2604@gmail.com',
           },
         ],
       },

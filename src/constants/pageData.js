@@ -24,27 +24,12 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'websites-preview/optic-logo.png',
-      websiteURL: 'https://optic.id/',
+      url: 'websites-preview/rizzle.jpeg',
+      websiteURL: 'https://rizzle.com/',
     },
     {
-      url: 'websites-preview/good-dollar.jpeg',
-      websiteURL: 'https://www.gooddollar.org/',
-    },
-    {
-      url: 'websites-preview/cs2.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/cs.html', //optional open url in new tab
-    },
-    {
-      url: 'websites-preview/knack-page.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/knack.html',
-    },
-    {
-      url: 'websites-preview/magic.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/magic-app.html',
+      url: 'websites-preview/pepcoding.png',
+      websiteURL: 'https://pepcoding.com/',
     },
   ],
 };
@@ -56,19 +41,20 @@ export const SKILLS_LIST = {
   topPadding: 0.33,
   scale: 0.15,
   items: [
-    { url: 'icons/react-native.png', websiteURL: null },
-    { url: 'icons/react-logo.png', websiteURL: null },
-    { url: 'icons/ts-logo.png', websiteURL: null },
-    { url: 'icons/js-logo.png', websiteURL: null },
-    { url: 'icons/css-logo.png', websiteURL: null },
-    { url: 'icons/html-logo.png', websiteURL: null },
     { url: 'icons/node-js-logo.png', websiteURL: null },
-    { url: 'icons/python-logo.png', websiteURL: null },
-    { url: 'icons/three-js-logo.png', websiteURL: null },
-    { url: 'icons/jest-logo.png', websiteURL: null },
-    { url: 'icons/graph-ql-logo.png', websiteURL: null },
-    { url: 'icons/vim-logo.png', websiteURL: null },
-  ],
+    { url: 'icons/mongo .png', websiteURL: null },
+    { url: 'icons/kafka.png', websiteURL: null },
+    { url: 'icons/sql.png', websiteURL: null },
+    { url: 'icons/aws.png', websiteURL: null },
+    { url: 'icons/docker.png', websiteURL: null },
+    { url: 'icons/grafana.jpeg', websiteURL: null },
+    { url: 'icons/jenkins.png', websiteURL: null },
+    { url: 'icons/k8s.png', websiteURL: null },
+    { url: 'icons/prometheus.png', websiteURL: null },
+    { url: 'icons/ts-logo.png', websiteURL: null },
+    { url: 'icons/js-logo.png', websiteURL: null },   
+  ]
+  
 };
 
 export const STOPS = [
